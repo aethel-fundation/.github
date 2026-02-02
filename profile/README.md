@@ -1,9 +1,7 @@
 # ÆTHEL Foundation
 ### Sovereign Infrastructure Nexus
 
-<div align="center">
-  <img src="./nexus_org.png" width="500">
-</div>
+![AETHEL Banner](./banner_org.png)
 
 A **AETHEL Foundation** é um ecossistema de infraestrutura soberana dedicado à inteligência artificial autônoma, segurança proativa e resiliência digital. 
 
@@ -12,6 +10,10 @@ Nossa missão é fornecer os blocos de construção essenciais para que sistemas
 ## 🌌 O Nexus de Módulos
 
 As tecnologias da fundação são distribuídas em cinco motores especializados, operando em uníssono ou de forma independente:
+
+<div align="center">
+  <img src="./nexus_org.png" width="400">
+</div>
 
 ### 🧬 [Æ-Pattern-Geometry](https://github.com/aethel-fundation/ae-pattern-geometry)
 **Deep Signal Analysis & Time-Series Recognition**
