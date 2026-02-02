@@ -1,7 +1,7 @@
 # ÆTHEL Foundation
 ### Sovereign Infrastructure Nexus
 
-![AETHEL Banner](./banner_org.png)
+![AETHEL Banner](./banner_isolated.png)
 
 A **AETHEL Foundation** é um ecossistema de infraestrutura soberana dedicado à inteligência artificial autônoma, segurança proativa e resiliência digital. 
 
