@@ -1,7 +1,7 @@
 # ÆTHEL Foundation
 ### Sovereign Research & Infrastructure Nexus
 
-![AETHEL Banner](./banner_v_final.png)
+![AETHEL Foundation Banner](img/aethel_banner.png)
 
 A **AETHEL Foundation** é uma iniciativa de pesquisa avançada dedicada ao desenvolvimento de sistemas autônomos resilientes, integridade de dados e arquiteturas de soberania digital. 
 
@@ -17,7 +17,7 @@ Por motivos de soberania tecnológica e proteção de ativos intelectuais, a mai
 Os pilares da fundação são distribuídos em cinco domínios de pesquisa especializada:
 
 <div align="center">
-  <img src="./nexus_org.png" width="400">
+  <img src="img/module_nexus.png" width="400">
 </div>
 
 ### 🧬 Æ-Pattern-Geometry
