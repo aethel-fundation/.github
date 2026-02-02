@@ -1,45 +1,50 @@
 # ÆTHEL Foundation
-### Sovereign Infrastructure Nexus
+### Sovereign Research & Infrastructure Nexus
 
 ![AETHEL Banner](./banner_v_final.png)
 
-A **AETHEL Foundation** é um ecossistema de infraestrutura soberana dedicado à inteligência artificial autônoma, segurança proativa e resiliência digital. 
+A **AETHEL Foundation** é uma iniciativa de pesquisa avançada dedicada ao desenvolvimento de sistemas autônomos resilientes, integridade de dados e arquiteturas de soberania digital. 
 
-Nossa missão é fornecer os blocos de construção essenciais para que sistemas digitais operem com independência, integridade e invisibilidade tática em ambientes adversos.
+Nossa missão é estabelecer os padrões fundamentais para que ecossistemas complexos operem com estabilidade, transparência controlada e imunidade tática em cenários de alta incerteza.
 
-## 🌌 O Nexus de Módulos
+## 🏛️ Diretrizes de Acesso
+Por motivos de soberania tecnológica e proteção de ativos intelectuais, a maioria de nossos motores operam em regime de **Acesso Restrito**. Os repositórios funcionais são mantidos em ambientes isolados e privados, acessíveis apenas a colaboradores autorizados através de protocolos de autenticação profunda.
 
-As tecnologias da fundação são distribuídas em cinco motores especializados, operando em uníssono ou de forma independente:
+---
+
+## 🌌 O Nexus de Inteligência
+
+Os pilares da fundação são distribuídos em cinco domínios de pesquisa especializada:
 
 <div align="center">
   <img src="./nexus_org.png" width="400">
 </div>
 
-### 🧬 [Æ-Pattern-Geometry](https://github.com/aethel-fundation/ae-pattern-geometry)
-**Deep Signal Analysis & Time-Series Recognition**
-Motor matemático agnóstico para detecção de fractais e padrões em fluxos de dados dinâmicos (IoT, Bio-sinais, Mercados).
-`#geometry` `#math` `#time-series`
+### 🧬 Æ-Pattern-Geometry
+**Fractal Analysis & Signal Processing Dynamics**
+Investigação matemática sobre a recorrência de padrões em fluxos de dados de alta densidade e detecção de anomalias estruturais.
+`#signal-processing` `#mathematical-modeling`
 
-### 🦅 [Æ-Wraith-Engine](https://github.com/aethel-fundation/ae-wraith-engine)
-**Adversarial AI Detection & Active Defense**
-Inteligência ofensiva para identificação de agentes não-humanos, proteção contra DDoS de camada 7 e mitigação de botnets.
-`#cybersecurity` `#threat-intelligence` `#anti-bot`
+### 🦅 Æ-Wraith-Engine
+**Threat Intelligence & Active System Integrity**
+Motores de detecção pré-emptiva e proteção de infraestrutura contra interferências externas e agentes adversários.
+`#system-integrity` `#defense-architectures`
 
-### ⚖️ [Æ-Governance-Guard](https://github.com/aethel-fundation/ae-governance-guard)
-**Constitutional AI & Autonomous Compliance**
-Framework de enforcamento de leis e guardrails táticos, garantindo que IAs operem sob limites éticos e operacionais rígidos.
-`#ai-governance` `#ai-safety` `#compliance`
+### ⚖️ Æ-Governance-Guard
+**Constitutional Frameworks & Algorithmic Ethics**
+Definição de modelos de governança automatizada e enforcamento de limites operativos para inteligências autônomas.
+`#algorithmic-governance` `#ethical-ai`
 
-### 👻 [AE--Ghost-Protocol](https://github.com/aethel-fundation/ae--ghost-protocol)
-**Behavioral Obfuscation & Privacy Engineering**
-Protocolo de ofuscação de tráfego e mimetismo de dados para garantir o anonimato de intenções e a segurança de metadados.
-`#privacy` `#stealth` `#obfuscation`
+### 👻 AE--Ghost-Protocol
+**Data Obfuscation & Privacy Engineering**
+Pesquisa em mimetismo comportamental e proteção de camadas de metadados para garantir a integridade da comunicação.
+`#privacy-engineering` `#obfuscation-theory`
 
-### 🛡️ [AE-Legacy-Strategy](https://github.com/aethel-fundation/ae-legacy-strategy)
-**Infrastructure Resilience & Digital Survival**
-Mecanismos de Dead Man's Switch, failover geopolítico e recuperação de desastres para ativos digitais críticos.
-`#resilience` `#dms` `#high-availability`
+### 🛡️ Æ-Legacy-Strategy
+**High Availability & Continuity Architectures**
+Protocolos de resiliência e failover para garantir a persistência de sistemas críticos em situações de interrupção sistêmica.
+`#resilience` `#business-continuity`
 
 ---
-> *"A fundação da soberania digital começa com a independência da infraestrutura."*
-🦅🔗✨
+> *"A autoridade sobre o dado é a base da liberdade sistêmica."*
+🦅⚔️🌑🏛️🛡️
