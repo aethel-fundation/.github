@@ -20,20 +20,30 @@ Os pilares da fundação são distribuídos em cinco domínios de pesquisa espec
   <img src="assets/module_nexus.png" width="400">
 </div>
 
-### 🧬 Æ-Pattern-Geometry
-**Fractal Analysis & Signal Processing Dynamics** — Mathematical investigation into high-density data patterns.
+### 🧬 [Æ-Pattern-Geometry](https://github.com/aethel-fundation/ae-pattern-geometry)
+**Fractal Analysis & Signal Processing Dynamics**
+Investigação matemática sobre a recorrência de padrões em fluxos de dados de alta densidade e detecção de anomalias estruturais.
+`#signal-processing` `#mathematical-modeling` `#time-series`
 
-### 🦅 Æ-Wraith-Engine
-**Threat Intelligence & Active System Integrity** — Pre-emptive detection and infrastructure protection against adversary agents.
+### 🦅 [Æ-Wraith-Engine](https://github.com/aethel-fundation/ae-wraith-engine)
+**Threat Intelligence & Active System Integrity**
+Motores de detecção pré-emptiva e proteção de infraestrutura contra interferências externas e agentes adversários.
+`#system-integrity` `#defense-architectures` `#anti-bot`
 
-### ⚖️ Æ-Governance-Guard
-**Constitutional Frameworks & Algorithmic Ethics** — Automated governance and operational limits for autonomous intelligence.
+### ⚖️ [Æ-Governance-Guard](https://github.com/aethel-fundation/ae-governance-guard)
+**Constitutional Frameworks & Algorithmic Ethics**
+Definição de modelos de governança automatizada e enforcamento de limites operativos para inteligências autônomas.
+`#algorithmic-governance` `#ethical-ai` `#compliance`
 
-### 👻 AE--Ghost-Protocol
-**Data Obfuscation & Privacy Engineering** — Behavioral mimicry and metadata protection for communication integrity.
+### 👻 [AE--Ghost-Protocol](https://github.com/aethel-fundation/ae--ghost-protocol)
+**Data Obfuscation & Privacy Engineering**
+Pesquisa em mimetismo comportamental e proteção de camadas de metadados para garantir a integridade da comunicação.
+`#privacy-engineering` `#obfuscation-theory` `#stealth`
 
-### 🛡️ Æ-Legacy-Strategy
-**High Availability & Continuity Architectures** — Resilience protocols and failover for critical system persistence.
+### 🛡️ [Æ-Legacy-Strategy](https://github.com/aethel-fundation/ae-legacy-strategy)
+**High Availability & Continuity Architectures**
+Protocolos de resiliência e failover para garantir a persistência de sistemas críticos em situações de interrupção sistêmica.
+`#resilience` `#business-continuity` `#disaster-recovery`
 
 ---
 > *"A autoridade sobre o dado é a base da liberdade sistêmica."*
