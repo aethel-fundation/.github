@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="assets/aethel_banner.png" width="100%" style="max-height: 400px; object-fit: cover; object-position: center;">
-</div>
+# ÆTHEL Foundation
+### Sovereign Research & Infrastructure Nexus
+
+![AETHEL Foundation Banner](assets/aethel_banner.png)
 
 A **AETHEL Foundation** é uma iniciativa de pesquisa avançada dedicada ao desenvolvimento de sistemas autônomos resilientes, integridade de dados e arquiteturas de soberania digital. 
 
